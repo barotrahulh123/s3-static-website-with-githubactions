@@ -65,6 +65,8 @@ In your GitHub repository:
    - `AWS_SECRET_ACCESS_KEY`: Your IAM user's Secret Access Key
    - `AWS_S3_BUCKET`: Your S3 bucket name
    - `AWS_REGION`: The region of your S3 bucket (e.g., us-east-1)
+   - `AWS_CLOUDFRONT_DISTRIBUTION_ID`: Your CloudFront distribution ID
+
 
 ### 6. Create GitHub Actions workflow
 
